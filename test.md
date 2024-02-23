@@ -1,9 +1,8 @@
 ---
 title: 从零开始搭建一个酷炫的个人博客
 excerpt: 从零开始搭建一个酷炫的个人博客，包括git、hexo、fluid主题使用、购买域名、发布文章
-updated: 2022-12-27 19:11:09
-category_bar: true
-date: 2022-11-18 19:48:50
+updated: 2023-12-27 19:11:09
+date: 2023-11-18 19:48:50
 
 tags:
 - demo
