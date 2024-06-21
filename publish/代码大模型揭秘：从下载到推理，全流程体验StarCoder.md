@@ -180,5 +180,5 @@ print(decoded_output)
 
 ## 敬请关注【程序员世杰】
 
-![qrcode_for_gh_3223765a1430_430](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/qrcode_for_gh_3223765a1430_430_899e57eb449c14150b4c0a82ab9b0fb6.jpg)
+![](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/qrcode_for_gh_3223765a1430_430_899e57eb449c14150b4c0a82ab9b0fb6.jpg)
 
