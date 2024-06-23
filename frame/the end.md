@@ -19,5 +19,4 @@
 
 ## 敬请关注【程序员世杰】
 
-![](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/qrcode_for_gh_3223765a1430_430_899e57eb449c14150b4c0a82ab9b0fb6.jpg)
-
+![coder_world_618](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/coder_world_618-9122505_324d5d2e80e9ad51355871aa6ebda8f0.jpg)
