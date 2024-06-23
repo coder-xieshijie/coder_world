@@ -67,6 +67,10 @@
 
 
 
+![image-20240622182810782](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/image-20240622182810782_6bea0e0679a4f4b7808d59e7e0d1eb28.png)
+
+
+
 **扫码关注，开启你的面试成功之旅👇**
 
 ![qrcode_for_gh_3223765a1430_430](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/qrcode_for_gh_3223765a1430_430_899e57eb449c14150b4c0a82ab9b0fb6.jpg)

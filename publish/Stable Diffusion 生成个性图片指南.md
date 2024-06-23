@@ -145,7 +145,7 @@ best quality, masterpiece, highres, 1girl,china dress,hair ornament,necklace, je
 
 ## 更多惊喜
 
-除了这些顶级的面试资料，我们的公众号还将定期分享：
+我们的公众号还将定期分享：
 
 - **最新互联网资讯**：让你时刻掌握行业动态。
 
