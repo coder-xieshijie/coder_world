@@ -3,7 +3,7 @@
 
 ## 更多惊喜
 
-我们的公众号还将定期分享：
+我还将定期分享：
 
 - **最新互联网资讯**：让你时刻掌握行业动态。
 
@@ -17,8 +17,9 @@
 
 > **关注回复【1024】惊喜等你来拿！**
 
-![image-20240624140818030](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/image-20240624140818030_937cf7d78178894d03f37dfb3b640b8a.png)
+[点击查看惊喜](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/image-20240624140818030_937cf7d78178894d03f37dfb3b640b8a.png)
 
 ## 敬请关注【程序员世杰】
 
-![coder_world_618](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/coder_world_618-9122505_324d5d2e80e9ad51355871aa6ebda8f0.jpg)
+[点击关注程序员世杰](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/coder_world_618-9122505_324d5d2e80e9ad51355871aa6ebda8f0.jpg)
+
