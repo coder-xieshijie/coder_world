@@ -1,36 +1,6 @@
-> 主题
-
-1. Java内存结构
-2. Java内存设计原则？为什么这么设计
-3. Java内存跟计算机内存的相同与不同
-4. Java内存结构设计上有什么好与不好的地方
+![Java内存结构](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/Java内存结构_25782446e221398e255184af33a56dfc.jpg)
 
 
-
-> 文章大纲
-
-1. JVM架构
-2. 运行时数据区
-3. 直接内存，运行时常量池，字符串常量池
-4. jdk不同版本的内存变化
-5. 面试tips
-   1. 出题，关注回复获取答案
-
-
-
-> 参考文章
-
-1. [JVM 基础 - JVM 内存结构](https://pdai.tech/md/java/jvm/java-jvm-struct.html)
-2. [Java内存区域详解（重点）](https://javaguide.cn/java/jvm/memory-area.html)
-3. [JVM的内存分区/内存结构/内存区域/JVM内存模型](https://www.cnblogs.com/xfeiyun/p/15597663.html)
-4. [浅谈JVM整体架构与调优参数](https://developer.huawei.com/consumer/cn/forum/topic/0201147436707418224?fid=0101592429757310384)
-5. [【002】十分钟搞懂Java内存结构](https://mp.weixin.qq.com/s?__biz=MzIxNzM0NjA1OQ==&mid=2247483692&idx=1&sn=53ee73807a390cb4b1861e3923407b92&chksm=97fa7848a08df15e4974d5edb963fd1b9209099f10595be6423e1cfcf0e1184ff2fe0b76cbf4&token=1744861076&lang=zh_CN#rd)
-
-
-
-
-
-> 正文
 
 
 
@@ -309,27 +279,3 @@ Java 世界中“几乎”所有的对象都在堆中分配，但是，随着 JI
 4. [Java内存区域详解（重点）](https://javaguide.cn/java/jvm/memory-area.html)
 
 5. [浅谈JVM整体架构与调优参数](https://developer.huawei.com/consumer/cn/forum/topic/0201147436707418224?fid=0101592429757310384)
-
-   
-
-## 更多惊喜
-
-我还将定期分享：
-
-- **最新互联网资讯**：让你时刻掌握行业动态。
-
-- **AI前沿新闻**：紧跟技术潮流，不断提升自我。
-
-- **技术分享与职业发展**：助你在职业生涯中走得更远、更稳。
-
-- **程序员生活趣事**：让你在忙碌的工作之余找到共鸣与乐趣。
-
-
-
-> **关注回复【程序员世杰】【1024】获取完整面试题答案！**
-
-![点击查看惊喜](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/image-20240624140818030_937cf7d78178894d03f37dfb3b640b8a.png)
-
-## 敬请关注
-
-![点击关注程序员世杰](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/coder_world_618-9122505_324d5d2e80e9ad51355871aa6ebda8f0.jpg)

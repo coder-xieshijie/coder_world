@@ -1,38 +1,5 @@
->  主题
+![Java类被加载到内存](https://coder-xieshijie-img-1253784930.cos.ap-beijing.myqcloud.com/img/2024/Java类被加载到内存_ff8a1debd72fc665a4813234ad42fdec.jpg)
 
-
-
-面试官：Java文件是如何被加载到内存中的？
-
-
-
-摘要：Class 文件需要加载到虚拟机中之后才能运行和使用，那么虚拟机是如何加载这些 Class 文件呢？
-
-
-
-> 大纲
-
-类加载过程
-
-
-
-> 参考内容
-
-- 《深入理解 Java 虚拟机》
-
-- [十分钟搞懂Java类加载](https://mp.weixin.qq.com/s?__biz=MzIxNzM0NjA1OQ==&mid=2247483698&idx=1&sn=6ab24416042310b91f9363fff3402370&chksm=97fa7856a08df140e0a97ad31cbfcc3b99d13741e1db365ea08ab307392f3d1b1535f2041fdb&token=471240037&lang=zh_CN#rd)
-
-- [Java 类加载机制](https://pdai.tech/md/java/jvm/java-jvm-classload.html)
-
-- [类加载过程详解](https://javaguide.cn/java/jvm/class-loading-process.html)
-
-- [JVM：类加载过程](https://cloud.tencent.com/developer/article/1787638)
-
-
-
-
-
-> 正文
 
 
 
